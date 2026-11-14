@@ -1,0 +1,1 @@
+This entry trades cbBTC with a long-only EMA crossover filtered by a slower trend average, holding at most one position. It exits on a take-profit signal, a trailing drawdown stop, or a late-window safety close.
